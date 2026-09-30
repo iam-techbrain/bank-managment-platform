@@ -6,7 +6,7 @@ The system is built using enterprise-level Java technologies with XML-based comm
 
 ---
 
-# 🚀 Features
+# Features
 
 ## Customer Management
 
@@ -51,7 +51,7 @@ The system is built using enterprise-level Java technologies with XML-based comm
 
 ---
 
-# 🏗️ System Architecture
+# System Architecture
 
 ```
                 Client Application
@@ -93,7 +93,7 @@ The system is built using enterprise-level Java technologies with XML-based comm
 
 ---
 
-# 🛠️ Technology Stack
+# Technology Stack
 
 ## Backend
 
@@ -152,7 +152,7 @@ The system is built using enterprise-level Java technologies with XML-based comm
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```
 bank-management-system
@@ -197,7 +197,7 @@ bank-management-system
 
 ---
 
-# 🔐 Security Implementation
+# Security Implementation
 
 The application implements:
 
@@ -233,7 +233,7 @@ Database
 
 ---
 
-# 🗄️ Database Design
+# Database Design
 
 Main Entities:
 
@@ -301,7 +301,7 @@ transaction_date
 
 ---
 
-# 🔄 XML Communication Flow
+# XML Communication Flow
 
 ```
 External Banking System
@@ -334,7 +334,7 @@ External Banking System
 
 ---
 
-# ⚙️ Installation & Setup
+# Installation & Setup
 
 ## Prerequisites
 
@@ -407,7 +407,7 @@ mvn spring-boot:run
 
 ---
 
-# 🧪 Testing
+# Testing
 
 Run tests:
 
@@ -425,7 +425,7 @@ Testing includes:
 
 ---
 
-# 📊 Logging & Monitoring
+# Logging & Monitoring
 
 Application logs include:
 
@@ -437,7 +437,7 @@ Application logs include:
 
 ---
 
-# 🔮 Future Enhancements
+# Future Enhancements
 
 - Mobile banking application
 - REST API integration
@@ -451,7 +451,7 @@ Application logs include:
 
 ---
 
-# 📌 Development Guidelines
+# Development Guidelines
 
 - Follow Java coding standards
 - Maintain layered architecture
@@ -461,7 +461,7 @@ Application logs include:
 
 ---
 
-# 📄 License
+# License
 
 This project is developed for educational and enterprise architecture demonstration purposes.
 
